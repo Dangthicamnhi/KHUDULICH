@@ -1,5 +1,4 @@
 # KHUDULICH
-cơ sợ dữ liệu quản lý khi du lịch 
 - Khu du lịch là khu vực có ưu thế về tài nguyên du lịch, được quy hoạch, đầu tư phát triển nhằm đáp ứng nhu cầu đa dạng của khách du lịch, nhằm mang nguồn lợi cho kinh tế - xã hội. Từ đó cho ra đời các khu du lịch để đáp ứng các nhu cầu.
 - Trong thời gian khảo sát một số một số khu du lịch như Phong Nha Kẻ Bàng, Bà Nà Hills, phố cổ Hội An,… Nhóm sẽ xây dựng khu du lịch việc quản lý là việc cần thiết theo những bộ phận như sau:
 + Phòng điều hành: Ban giám đốc điều hành các công việc trong khu du lịch.
@@ -12,3 +11,5 @@ cơ sợ dữ liệu quản lý khi du lịch
 + Phòng Tài chính kế toán: Nơi kiểm tra, hạch toán ngân sách và báo cáo thuế tình hình tài chính của khu du lịch.
 + Phòng marketing: Nơi lên kế hoạch tổ chức cho các sự kiện thiết kế quảng cáo làm rộng rãi của khu du lịch.
 
+- SỰ DỤNG DATABASE : SQL Server
+  
